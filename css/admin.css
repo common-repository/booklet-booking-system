@@ -1,0 +1,19 @@
+/*
+* Booklet admin css
+*/
+
+.fields-row {
+  border-bottom: 1px solid rgb(238, 238, 238);
+  padding: 15px 10px;
+}
+.fields-row > label {
+  display: block;
+  float: left;
+  margin-right: 15px;
+  width: 20%;
+}
+.fields-row > input,
+.fields-row > input[type="number"] {
+  height: 34px;
+  width: 35%;
+}
